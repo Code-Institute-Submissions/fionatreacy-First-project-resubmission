@@ -221,4 +221,13 @@ footer {
         column-count: 1;
         column-gap: 0;
     }
+    #cover-text {
+        left: 0;
+    }
+    #general-about div {
+        width: 33%;
+        height: 1200px;
+        margin: 0 auto;
+        box-sizing: border-box;
+    }
 }
