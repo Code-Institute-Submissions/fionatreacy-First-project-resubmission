@@ -175,6 +175,7 @@ h2 {
 /* footer */
 footer {
     height: 150px;
+    clear: both;
 }
 
 .social-media {
@@ -250,6 +251,7 @@ footer {
     width: 100%;
     height: 100%;
     overflow: hidden;
+    font-size: 125%;
     border: 3px solid white;
 }
 
@@ -258,9 +260,9 @@ footer {
     width: 50%;
     height: 100%;
     overflow: hidden;
+    font-size: 125%;
     border: 3px solid white;
     box-sizing: border-box;
-    font-size: 125%;
 }
 
 #solstice-2 {
@@ -280,25 +282,21 @@ footer {
     font-size: 125%;
     border: 3px solid white;
     box-sizing: border-box;
-    font-size: inherit;
-}
-
-#solstice-1, #solstice-2 p {
-    font-size: 125%;
 }
 
 /* for screens size 950px */
 
 @media screen and (max-width:950px) {
 
-    @media screen and (max-width:950px) {
-        #menu {
-            clear: left;
-            float: left;
-            margin-left: 30px;
-            margin-bottom: 20px;
-            line-height: 25px;
-        }
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 50px;
+    }
+    #menu li {
+        height: 50px;
     }
 
     #photos {
@@ -350,7 +348,25 @@ footer {
 
     #burial>div {
         width: 80%;
-        height: 400px;
+        height: 500px;
+        margin: 0 auto;
+        box-sizing: border-box;
+        font-size: 100%;
+        float: none;
+    }
+
+    #solstice-1>div {
+        width: 80%;
+        height: 500px;
+        margin: 0 auto;
+        box-sizing: border-box;
+        font-size: 100%;
+        float: none;
+    }
+
+    #solstice-2>div {
+        width: 80%;
+        height: 600px;
         margin: 0 auto;
         box-sizing: border-box;
         font-size: 100%;
