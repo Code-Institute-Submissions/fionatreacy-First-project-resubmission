@@ -1,4 +1,9 @@
 <h1>Newgrange Monument</h1>
+<br>
+
+<img src="assets/images/am-i-responsive-p1.png">
+
+<br>
 
 <p>
 The purpose of the Newgrange website is to provide information to tourists and history enthusiasts. It provides a brief history of the monument and its cultural signiicancne, alongside a gallery of related images. Users can also find information related to booking tours and entering the winter solstice lottery
@@ -27,6 +32,8 @@ The purpose of the Newgrange website is to provide information to tourists and h
 <li>The covertext contrasts the image and is placed on a transparent background to make it easier to read</li>
 </ul>
 
+<br>
+
 <h3>About Newgrange Section</h3>
 <img src="assets/images/about-newgrange.png">
 <ul>
@@ -36,6 +43,8 @@ The purpose of the Newgrange website is to provide information to tourists and h
 <li>It overlays another picture of Newgrange, and the contrasting text again sits on a transparent background for ease of reading</li>
 </ul>
 
+<br>
+
 <h3>Visit Newgrange Section</h3>
 <img src="assets/images/visit-newgrange.png">
 <ul>
@@ -44,5 +53,30 @@ The purpose of the Newgrange website is to provide information to tourists and h
 <li>There is also an embedded google map link</li>
 <li>These sections sit beside eachother on desktop and stack ontop of eachother on mobile</li>
 <li>The black font contrast with the white background, making it easier to read</li>
+
+</ul>
+
+<br>
+
+<h3>History and Winter Solstice</h3>
+<img src="assets/images/history.png" width="450px"> <img src="assets/images/winter-solstice.png" width="450px">
+<ul>
+<li>The History and Winter Solstice pages follow the same layout as eachother for continuity purposes</li>
+<li>These pages give the reader a brief overview of the history of Newgrange </li>
+<li>Two paragraphs of text are layed out beside images relevant to the information</li>
+<li>The text and images contrast with the background for ease of reading and viewing</li>
+<li>On mobile, the images and text stack on top of each other</li>
+
+</ul>
+
+<br>
+
+<h3>Gallery</h3>
+<img src="assets/images/gallery.png">
+<ul>
+<li>The gallery shows a few images relevant to Newgrange</li>
+<li>The images are layed out neatly at appropriate wdiths and heights so as not to appear stretched</li>
+<li>The images stack on top of each other on mobile</li>
+<li>The images contrast with the white background for ease viewing</li>
 
 </ul>
