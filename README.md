@@ -80,3 +80,56 @@ The purpose of the Newgrange website is to provide information to tourists and h
 <li>The images contrast with the white background for ease viewing</li>
 
 </ul>
+
+<br>
+
+<h3>Testing</h3>
+
+<ul>
+<li>I tested and confirmed this website works on Chrome, Safari and Firefox</li>
+<li>I confirmed this project is responsive and functional on multiple screen sizes</li>
+<li>All text and images are easy to read</li>
+</ul>
+
+<h3>Bugs</h3>
+
+<ul>
+<li>When I deployed my project to github pages I discovered that some of the pages didn't diplay properly on mobile</li>
+<li>This was because there was an error in my media queries, cutting off the bottom half the page</li>
+<li>I fixed this by adjusting the height for some of the divs on mobile</li>
+</ul>
+
+<br>
+
+<h3>Testing</h3>
+
+<ul>
+<li>No errors found on the official W3C HTML validator</li>
+<li>No errors found on the official Jigsaw CSS validator</li>
+<li>Performance score on the Lighthouse accessibility validator was originally very low due to long loading times. I increased the score significanty by converting some of the larger .PNG files to .WEBP files.</li>
+</ul>
+
+<img src="assets/images/lighthouse-p1.png">
+
+<br>
+
+<h3>Unfixed Bugs</h3>
+
+<p>No unfixed bugs</p>
+
+<br>
+
+<h3>Deployment</h3>
+
+<p>The site was deployed to github pages. In the settings of my repository I selected the pages section, sourced it from the master branch and and clicked save. Github then provided a link to the deployed site which can be found <a
+                        href="https://fionatreacy.github.io/First-project-resubmission" target="_blank" rel="noopener" class="tickets">HERE.</a></p>
+
+<br>
+
+<h2>Credits</h2>
+
+<h3>Content</h3>
+I got the code for the navigation and header image animation from the love running project.
+
+<h3>Media</h3>
+All images were sourced from Shutterstock and Wikimedia commons.
