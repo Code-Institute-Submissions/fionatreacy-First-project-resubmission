@@ -58,7 +58,7 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background-image: url('../images/hero-image.jpg');
+    background-image: url('../images/hero-image.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -110,7 +110,7 @@ h2 {
 
 /* general info */
 #general-about {
-    background-image: url('../images/newgrange1.jpg');
+    background-image: url('../images/newgrange1.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
