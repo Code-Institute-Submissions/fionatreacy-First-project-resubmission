@@ -297,6 +297,7 @@ footer {
     }
     #menu li {
         height: 50px;
+        float: right;
     }
 
     #photos {
