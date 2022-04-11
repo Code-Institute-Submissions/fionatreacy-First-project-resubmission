@@ -298,6 +298,7 @@ footer {
     #menu li {
         height: 50px;
         float: right;
+        width: 100%;
     }
 
     #photos {
