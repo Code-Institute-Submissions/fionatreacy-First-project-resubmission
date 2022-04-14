@@ -199,6 +199,8 @@ footer {
     clear: both;
     line-height: 0;
     column-count: 2;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 #photos > img {
     width: 100%;
