@@ -1,7 +1,7 @@
 <h1>Newgrange Monument</h1>
 <br>
 
-<img src="assets/images/am-i-responsive-p1.png">
+<img src="assets/images/newgrange-responsive.png">
 
 <br>
 
@@ -49,7 +49,7 @@ The purpose of the Newgrange website is to provide information to tourists and h
 <img src="assets/images/visit-newgrange.png">
 <ul>
 <li>This section provides information about location and where to buy tour tickets</li>
-<li>This portion of the website is also split into three sections, two dedicated to different tours and one for location</li>
+<li>This portion of the website is also split into two sections, one dedicated to different tours and one for location</li>
 <li>There is also an embedded google map link</li>
 <li>These sections sit beside eachother on desktop and stack ontop of eachother on mobile</li>
 <li>The black font contrast with the white background, making it easier to read</li>

@@ -211,7 +211,8 @@ footer {
 #worship {
     padding-top: 50px;
     float: left;
-    width: 100%;
+    width: fit-content;
+    margin: auto;
     height: 100%;
     overflow: hidden;
     font-size: 125%;
@@ -231,7 +232,8 @@ footer {
 #burial {
     padding-top: 50px;
     float: left;
-    width: 100%;
+    width: fit-content;
+    margin: auto;
     height: 100%;
     overflow: hidden;
     font-size: 125%;
