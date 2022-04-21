@@ -334,23 +334,26 @@ footer {
     #visit {
         height: fit-content;
         overflow: hidden;
+        width: 90%;
+        margin: auto;
     }
 
     #visit>div {
-        width: 100%;
+        width: fit-content;
         font-size: 100%;
         height: 50%;
     }
 
     #map {
+        margin: 10%;
         width: 100%;
         height: 100%;
     }
 
     #worship>div {
-        width: 100%;
+        width: 90%;
         height: fit-content;
-        margin: 0 auto;
+        margin: auto;
         box-sizing: border-box;
         font-size: 90%;
         float: none;
@@ -363,9 +366,9 @@ footer {
 
 
     #burial>div {
-        width: 100%;
+        width: 90%;
         height: fit-content;
-        margin: 0 auto;
+        margin: auto;
         box-sizing: border-box;
         font-size: 90%;
         float: none;
@@ -377,18 +380,18 @@ footer {
     }
 
     #solstice-1>div {
-        width: 100%;
+        width: 90%;
         height: fit-content;
-        margin: 0 auto;
+        margin: auto;
         box-sizing: border-box;
         font-size: 90%;
         float: none;
     }
 
     #solstice-2>div {
-        width: 100%;
+        width: 90%;
         height: fit-content;
-        margin: 0 auto;
+        margin: auto;
         box-sizing: border-box;
         font-size: 90%;
         float: none;
