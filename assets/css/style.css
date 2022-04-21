@@ -355,7 +355,7 @@ footer {
     }
 
     #worship>div {
-        width: 90%;
+        width: fit-content;
         height: fit-content;
         margin: auto;
         box-sizing: border-box;
@@ -370,7 +370,7 @@ footer {
 
 
     #burial>div {
-        width: 90%;
+        width: fit-content;
         height: fit-content;
         margin: auto;
         box-sizing: border-box;
@@ -384,7 +384,7 @@ footer {
     }
 
     #solstice-1>div {
-        width: 90%;
+        width: fit-content;
         height: fit-content;
         margin: auto;
         box-sizing: border-box;
