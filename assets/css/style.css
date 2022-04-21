@@ -212,7 +212,7 @@ footer {
     padding-top: 50px;
     float: left;
     width: fit-content;
-    margin: auto;
+    margin: 1%;
     height: 100%;
     overflow: hidden;
     font-size: 125%;
@@ -233,7 +233,7 @@ footer {
     padding-top: 50px;
     float: left;
     width: fit-content;
-    margin: auto;
+    margin: 1%;
     height: 100%;
     overflow: hidden;
     font-size: 125%;
@@ -254,7 +254,8 @@ footer {
 #solstice-1 {
     padding-top: 50px;
     float: left;
-    width: 100%;
+    width: fit-content;
+    margin: 1%;
     height: 100%;
     overflow: hidden;
     font-size: 125%;
@@ -274,7 +275,8 @@ footer {
 #solstice-2 {
     padding-top: 50px;
     float: left;
-    width: 100%;
+    width: fit-content;
+    margin: 1%;
     height: 100%;
     overflow: hidden;
     font-size: 125%;
