@@ -324,6 +324,34 @@ footer {
         width: 100%;
         height: fit-content;
     }
+
+    #worship>div {
+        width: fit-content;
+        height: fit-content;
+        margin: auto;
+        box-sizing: border-box;
+        font-size: 90%;
+        float: none;
+    }
+
+    #worship img {
+        width: 100%;
+        height: fit-content;
+    }
+    
+    #burial>div {
+        width: fit-content;
+        height: fit-content;
+        margin: auto;
+        box-sizing: border-box;
+        font-size: 90%;
+        float: none;
+    }
+    
+    #burial img {
+        width: 100%;
+        height: fit-content;
+    }
 }
 
 /* for screens size 950px */
