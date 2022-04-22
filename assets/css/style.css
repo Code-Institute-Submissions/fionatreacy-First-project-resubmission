@@ -292,6 +292,40 @@ footer {
     box-sizing: border-box;
 }
 
+/* for screens size 1200px */
+
+@media screen and (max-width:1200px) {
+    #visit {
+        height: fit-content;
+    }
+
+    #solstice-1>div {
+        width: fit-content;
+        height: fit-content;
+        margin: auto;
+        box-sizing: border-box;
+        font-size: 90%;
+        float: none;
+    }
+
+    #solstice-2>div {
+        width: fit-content;
+        height: fit-content;
+        margin: auto;
+        box-sizing: border-box;
+        font-size: 90%;
+        float: none;
+    }
+    #solstice-1 img {
+        width: 100%;
+        height: fit-content;
+    }
+    #solstice-2 img {
+        width: 100%;
+        height: fit-content;
+    }
+}
+
 /* for screens size 950px */
 
 @media screen and (max-width:950px) {
